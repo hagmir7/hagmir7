@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://freewsad.com/](https://freewsad.com/)
 
-- 💬 Ask me about **React, Python, Djanog, PHP, Laravl,MySQL**
+- 💬 Ask me about **React, Python, Django, PHP, Laravel,MySQL**
 
 - 📫 How to reach me **hassan.agmir@freewsad.com**
 
