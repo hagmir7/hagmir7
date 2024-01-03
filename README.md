@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hassane Agmir</h1>
 <h3 align="center">A passionate full stack developer from Morocco</h3>
 
-- 🔭 I’m currently working as CEO at [FreeWsad](https://www.freewsd.com/)
+- 🔭 I’m currently working as CEO at [FreeWsad](https://www.freewsad.com/)
 
 - 🌱 I’m currently learning **AI**
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://freewsad.com/](https://freewsad.com/)
 
-- 💬 Ask me about **React, Python, Django, PHP, Laravel,MySQL**
+- 💬 Ask me about **React, Python, Django, PHP, Laravel, MySQL**
 
 - 📫 How to reach me **hassan.agmir@freewsad.com**
 
