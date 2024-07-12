@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/hagmir7](https://github.com/hagmir7) 
 
 - 📝 I regularly write articles on [https://freewsad.com/](https://freewsad.com/)
-
+ 
 - 💬 Ask me about **React, Python, Django, PHP, Laravel, MySQL** 
 
 - 📫 How to reach me **hassan.agmir@freewsad.com**
