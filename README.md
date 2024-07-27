@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working as CEO at [FreeWsad](https://www.freewsad.com/)
 
-
 - 🌱 I’m currently learning **AI** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/hagmir7](https://github.com/hagmir7) 
