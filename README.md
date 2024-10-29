@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Hassan</h1> 
-
 <h3 align="center">A passionate full stack developer from Morocco</h3> 
 
 - 🔭 I’m currently working as CEO at [FreeWsad](https://www.freewsad.com/)
