@@ -11,7 +11,7 @@
  
 - 💬 Ask me about **React, Python, Django, PHP, Laravel, MySQL** 
 
-- 📫 How to reach me **hassanagmir.com**
+- 📫 How to reach me **[https://hassanagmir.com/contact](https://hassanagmir.com/contact)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
