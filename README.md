@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a full stack at [INTERCOCINA](https://www.intercocina.com/)
 
-- 🌱 I’m currently learning **AI** 
+- 🌱 I’m currently learning **Big Data** 
 
 - 👨‍💻 All of my projects are available at [https://hassanagmir.com/projects](https://hassanagmir.com/projects) 
 
