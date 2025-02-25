@@ -1,5 +1,5 @@
 # Hi 👋, I'm Hassan
-### A passionate full-stack developer from Morocco
+### A passionate full stack developer from Morocco
 
 - 🔭 I'm currently working as a full stack at [INTERCOCINA](https://www.intercocina.com/)
 - 🌱 I'm currently learning **Big Data**
