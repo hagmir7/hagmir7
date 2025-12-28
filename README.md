@@ -1,6 +1,5 @@
 # Hi 👋, I'm Hassan
 ### A passionate Full-Stack developer from Morocco
-
 - 🔭 I'm currently working as a full-stack developer at [INTERCOCINA](https://www.intercocina.com/)
 - 🌱 I'm currently learning **Big Data**
 - 👨‍💻 All of my projects are available at [https://hassanagmir.com/projects](https://hassanagmir.com/projects)
