@@ -4,7 +4,6 @@
 
 ## About Me
 I'm a passionate full-stack developer currently working at [INTERCOCINA](https://www.intercocina.com/), where I build scalable web applications and deliver innovative solutions. With expertise spanning frontend frameworks to backend architectures, I specialize in creating robust, user-centric applications.
-
 Currently expanding my expertise in **Big Data** technologies to stay at the forefront of modern development practices.
 
 ## What I Do
