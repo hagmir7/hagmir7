@@ -1,5 +1,4 @@
 # Hassan Agmir
-
 **Full-Stack Developer** | Morocco 🇲🇦
 ## About Me
 I'm a passionate full-stack developer currently working at [INTERCOCINA](https://www.intercocina.com/), where I build scalable web applications and deliver innovative solutions. With expertise spanning frontend frameworks to backend architectures, I specialize in creating robust, user-centric applications.
