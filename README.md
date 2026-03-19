@@ -2,8 +2,11 @@
 **Full-Stack Developer** | Morocco 🇲🇦
 
 ## About Me
+
 I'm a passionate full-stack developer currently working at [INTERCOCINA](https://www.intercocina.com/), where I build scalable web applications and deliver innovative solutions. With expertise spanning frontend frameworks to backend architectures, I specialize in creating robust, user-centric applications.
+
 Currently expanding my expertise in **Big Data** technologies to stay at the forefront of modern development practices.
+
 ## What I Do
 
 - 💼 **Current Role**: Full-Stack Developer at INTERCOCINA
@@ -38,6 +41,8 @@ I'm always interested in collaborating on interesting projects or discussing tec
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -52,5 +57,4 @@ I'm always interested in collaborating on interesting projects or discussing tec
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 ---
-
 ⭐️ From [Hassan Agmir](https://github.com/hassanagmir)
