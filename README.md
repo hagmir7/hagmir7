@@ -6,7 +6,6 @@ I'm a passionate full-stack developer currently working at [INTERCOCINA](https:/
 
 Currently expanding my expertise in **Big Data** technologies to stay at the forefront of modern development practices.
 ## What I Do
-
 - 💼 **Current Role**: Full-Stack Developer at INTERCOCINA
 - 🚀 **Specializations**: React, Python, Django, PHP, Laravel, MySQL
 - 📚 **Learning**: Big Data technologies and advanced system architectures
