@@ -11,7 +11,6 @@ Currently expanding my expertise in **Big Data** technologies to stay at the for
 - 🛠️ **Building**: Open-source projects and innovative web solutions
 
 ## Get In Touch
-
 I'm always interested in collaborating on interesting projects or discussing technology.
 
 - 🌐 **Portfolio**: [hassanagmir.com](https://hassanagmir.com)
